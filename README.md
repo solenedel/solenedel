@@ -1,4 +1,5 @@
 ### 🌟🌟🌟 welcome to my page! 🌟🌟🌟
+ --- 
 
 
 
@@ -16,7 +17,7 @@
  **October 2021** 
 - Completed coding bootcamp. 🎉
 
-
+ --- 
 
 💎 **Languages, frameworks, tecnologies:** JavaScript, ReactJS, jQuery, Node.js, PostgreSQL, HTML, CSS, (basic Ruby)
 
