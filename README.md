@@ -7,7 +7,7 @@
 - Started learning HTML and CSS
 
 **2021 - May** 
-- Graduated from university (major: environmental science) 🎓
+- Graduated from university 🎓
 - Started learning JavaScript
 
  **2021 - July** 
