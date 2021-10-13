@@ -1,4 +1,4 @@
-### 🌟🌟🌟 welcome to my page! 🌟🌟🌟
+### 🌟 welcome to my page! 🌟
  --- 
 
 
@@ -18,8 +18,12 @@
 
  --- 
 
-💎 **Languages, frameworks, tecnologies:** JavaScript, ReactJS, jQuery, Node.js, PostgreSQL, HTML, CSS, (basic Ruby)
+**Languages, frameworks, tecnologies:** 
+JavaScript - ReactJS - jQuery - Node.js - PostgreSQL - HTML - CSS 
 
-I speak English and French. You can reach out to me on LinkedIn (link in bio). Thanks for stopping by!
+I speak English and French. 
+You can reach out to me on LinkedIn (link in bio). 
+
+Thanks for stopping by!
 
 
