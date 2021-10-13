@@ -4,21 +4,24 @@
 
 
 **January 2021**
-- Started learning HTML and CSS.
+- Started learning HTML and CSS
 
 **May 2021** 
-- Graduated from university (major: environmental science). 🎓
-- Started learning JavaScript.
+- Graduated from university (major: environmental science) 🎓
+- Started learning JavaScript
 
  **July 2021** 
-- Started coding bootcamp. 
+- Started coding bootcamp 
 
  **October 2021** 
-- Completed coding bootcamp. 🎉
+- Completed coding bootcamp 🎉
+
+**Currently:**
+- reviewing, learning and attempting to LeetCode
 
  --- 
 
-**Languages, frameworks, tecnologies:** 
+**Languages / frameworks / technologies:** 
 JavaScript - ReactJS - jQuery - Node.js - PostgreSQL - HTML - CSS 
 
 I speak English and French. 
