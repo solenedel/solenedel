@@ -5,7 +5,7 @@
 **January 2021**
 - Started learning HTML and CSS.
 
-**May 2021 ** 
+**May 2021** 
 - Graduated from university (major: environmental science). 🎓
 - Started learning JavaScript.
 - Applied to full-stack web development bootcamp: successful ✅ 
