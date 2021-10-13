@@ -1,16 +1,23 @@
-### Hi there 👋
+### 🌟🌟🌟 welcome to my page! 🌟🌟🌟
 
-<!--
-**solenedel/solenedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**January 2021 -**
+Last semester of university (B.Sc. Environmental Science).
+Started learning HTML and CSS.
 
-Here are some ideas to get you started:
+**May 2021 -** 
+Graduated from university. 🎓
+Started learning JavaScript.
+Applied to full-stack web development bootcamp: successful ✅ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **July 2021 -** 
+Started coding bootcamp. 
+
+ **October 2021 -** 
+Completed coding bootcamp. 🎉
+
+
+💎 **Languages, frameworks, tecnologies:** JavaScript, ReactJS, jQuery, Node.js, PostgreSQL, HTML, CSS, (basic Ruby)
+
+I speak English and French. You can reach out to me on LinkedIn (link in bio). Thanks for stopping by!
+
+
