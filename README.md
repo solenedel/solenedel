@@ -9,7 +9,6 @@
 **May 2021** 
 - Graduated from university (major: environmental science). 🎓
 - Started learning JavaScript.
-- Applied to full-stack web development bootcamp: successful ✅ 
 
  **July 2021** 
 - Started coding bootcamp. 
