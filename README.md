@@ -16,13 +16,9 @@
  **2021 - October** 
 - Completed coding bootcamp 🎉
 
-**Currently:**
-- reviewing, learning and attempting to LeetCode
-
 
  --- 
 
-**Languages / frameworks / technologies:** 
 JavaScript - ReactJS - jQuery - Node.js - PostgreSQL - HTML - CSS 
 
 I speak English and French. 
