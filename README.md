@@ -19,7 +19,7 @@
 
  --- 
 
-JavaScript - ReactJS - jQuery - Node.js - PostgreSQL - HTML - CSS 
+JavaScript 🔸 ReactJS 🔸 jQuery 🔸 Node.js 🔸 PostgreSQL 🔸 HTML 🔸 CSS 
 
 I speak English and French. 
 You can reach out to me on LinkedIn (link in bio).
