@@ -17,7 +17,7 @@
 
  --- 
 
-JavaScript 🔸 ReactJS 🔸 jQuery 🔸 Node.js 🔸 PostgreSQL 🔸 HTML 🔸 CSS 
+JavaScript 🔸 ReactJS 🔸 jQuery 🔸 Node.js 🔸 PostgreSQL 🔸 HTML 🔸 CSS 🔸 Mocha & Chai
 
 **Next:**
 - MongoDB
