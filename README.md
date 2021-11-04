@@ -10,7 +10,7 @@
 - Started coding bootcamp 
 
  **2021 - October** 
-- Completed coding bootcamp 🎉
+- Finished coding bootcamp 🎉
 
  
  ## My Stats
@@ -28,6 +28,6 @@
  
 You can reach out to me on [LinkedIn](https://ca.linkedin.com/in/solene-delumeau).
 
-Thanks for stopping by!
+
 
 
