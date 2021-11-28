@@ -1,8 +1,8 @@
 ## 👾 Welcome to my page! 👾
 
-[My portfolio website](https://solenedel.github.io/portfolio/)
+## [My portfolio website](https://solenedel.github.io/portfolio/)
  
-[LinkedIn](https://ca.linkedin.com/in/solene-delumeau)
+## [LinkedIn](https://ca.linkedin.com/in/solene-delumeau)
 
  
  ## My Stats
