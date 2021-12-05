@@ -1,4 +1,4 @@
-## 👾 Welcome to my page! 👾
+## 👾 Welcome to Solène's page! 👾
 
 ### [My portfolio website](https://solenedel.github.io/portfolio/)
  
