@@ -1,6 +1,6 @@
-## 👾 Welcome to my page! Bienvenue! 👾
+## 🌟 Welcome to my page - bienvenue sur mon profil! 🌟
 
-I'm a junior full-stack web developer from France, and currently located in Canada.
+I'm a junior full-stack web developer from France, currently located in Canada.
 
 Je suis développeuse web originaire de France et actuellement localisée au Canada.
 
