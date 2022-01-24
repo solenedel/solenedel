@@ -1,10 +1,10 @@
-## 🌟 Welcome to my page ~ bienvenue sur mon profil!
+##   ꕥ  Welcome to my page ~ bienvenue sur mon profil  ꕥ 
 
 I'm a junior full-stack web developer from France, currently located in Canada. 
 
 Je suis développeuse web originaire de France et actuellement localisée au Canada.
 
-### [My portfolio website - mon site](https://solenedel.github.io/portfolio/)
+### [my website ~ mon site](https://solenedel.github.io/portfolio/)
  
 ### [LinkedIn](https://ca.linkedin.com/in/solene-delumeau)
 
