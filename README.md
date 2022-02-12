@@ -2,9 +2,7 @@
 
 I'm a full-stack web developer from France, currently located in Canada. 
 
-Je suis développeuse web originaire de France et actuellement localisée au Canada.
-
-### [my website ~ mon site](https://solenedel.github.io/portfolio/)
+### [my website](https://solenedel.github.io/portfolio/)
  
 ### [LinkedIn](https://ca.linkedin.com/in/solene-delumeau)
 
