@@ -14,7 +14,7 @@ I'm a full-stack web developer from France, currently located in Canada.
  ## My Stats 
 ![Solène's GitHub stats](https://github-readme-stats.vercel.app/api?username=solenedel&show_icons=true&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=solenedel)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=solenedel.solenedel)
 
 
 
