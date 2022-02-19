@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-my_LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://ca.linkedin.com/in/solene-delumeau/)
 
-I'm a full-stack web developer from France, currently located in Canada. I focus on ReactJS and Node development. 
+I'm a full-stack web developer from France, currently located in Canada. I focus on React.js and NodeJS development. 
 
  
  ## My Stats 
