@@ -1,7 +1,7 @@
 ##  Solène D
 
 
-[![My website](https://img.shields.io/badge/my_website-F16061?style=for-the-badge&logoColor=white)](https://solenedel.github.io/portfolio/)
+[![website](https://img.shields.io/badge/my_website-F16061?style=for-the-badge&logoColor=white)](https://solenedel.github.io/portfolio/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/solene-delumeau/)
 
