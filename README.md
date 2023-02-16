@@ -1,4 +1,4 @@
-## ✰ Solène ✰ full stack developer ✰ 
+## ✰  ✰  ✰  ✰ 
 
 ✉️ solene@71West.org
  
