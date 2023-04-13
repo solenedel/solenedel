@@ -1,4 +1,4 @@
-## ✰  ✰  ✰  ✰ 
+## ✰  ✰ Welcome!  ✰  ✰ 
 
 ✉️ solene@71West.org
  
