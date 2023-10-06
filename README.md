@@ -1,3 +1,3 @@
-## 📍 Paris, France
-## 💻 Mostly front-end development
-## 🌱 B.Sc. Environmental Science
+### 📍 Paris, France
+### 💻 Mostly front-end development
+### 🌱 B.Sc. Environmental Science
