@@ -1,5 +1,5 @@
  📍 Paris, France
  /
- 💻 Mostly front-end development
+ 💻 Full - stack developer
  /
- 🌱 B.Sc. Environmental Science
+ 🌱 B.Sc. Environmental Science (class of 2021)
