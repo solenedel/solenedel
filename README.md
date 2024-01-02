@@ -1,3 +1,3 @@
- 📍 Paris, France ✦ Full stack developer
  
- 🌱 B.Sc. Environmental Science (class of 2021)
+👩‍💻 Blockchain development Student @ Alyra 
+🌱 B.Sc. Environmental Science @ UBC (class of 2021)
