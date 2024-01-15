@@ -1,6 +1,7 @@
  ## About me
-- Blockchain development Student @ Alyra Blockchain School 
-- B.Sc. Environmental Science @ UBC (class of 2021)
+ ✦ Blockchain development Student @ Alyra Blockchain School 
+ <br/>
+ ✦ B.Sc. Environmental Science @ UBC (class of 2021)
 
 
 ## My favourites
