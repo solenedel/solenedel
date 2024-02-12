@@ -4,5 +4,5 @@
  ✦ B.Sc. Environmental Science @ UBC (class of 2021)
 
 
-## My favourites
+## What I use
 [![My Skills](https://skillicons.dev/icons?i=js,solidity,react,next,tailwind,figma)](https://skillicons.dev)
