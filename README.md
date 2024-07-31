@@ -1,5 +1,5 @@
  ## About me
- ✦ Blockchain developer (Alyra Blockchain School alumni)
+ ✦ full-stack developer with experience in visual design and blockchain development
  <br/>
  ✦ B.Sc. Environmental Science @ UBC (class of 2021)
 
