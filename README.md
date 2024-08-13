@@ -5,4 +5,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,solidity,react,next,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,react,next,tailwind,figma)](https://skillicons.dev)
