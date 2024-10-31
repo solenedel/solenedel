@@ -1,6 +1,8 @@
  ## 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚
- ✰ full-stack developer with experience in visual design and blockchain development
+ ✰ full-stack software engineer with experience in visual design, UI/UX, and blockchain development
  <br/>
+ ✰ Alyra Blockchain School Graduate (March 2024)
+  <br/>
  ✰ B.Sc. Environmental Science @ UBC (class of 2021)
 
 
